@@ -1,0 +1,11 @@
+.grace-header{
+    background-color: #88AAFF;
+    color: white;
+}
+
+.church-info {
+    border: 1px white solid;
+    background-color: #445577;
+    color: white;
+    min-height:350px;
+}
